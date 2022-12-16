@@ -1,9 +1,16 @@
 ### Hi there 👋
 
+I'm Eena!
+
+Currently I'm working as a Junior Software Engineer at Funzi where I'm part of the internal tech team 🤓
+
+📚 While working, I'm also studying the degree in Business Information Technology in Haaga-Helia University of Applied Sciences.
+Before that I studied programming in Hive Helsinki.
+
+📫 How to reach me: eena.salorinta@gmail.com or through LinkedIn https://fi.linkedin.com/in/eena-salorinta
 <!--
 **esalorin/esalorin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
