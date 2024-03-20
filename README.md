@@ -4,8 +4,9 @@ I'm Eena!
 
 Currently I'm working as a Junior Software Engineer at Funzi where I'm part of the internal tech team 🤓
 
-📚 While working, I'm also studying the degree in Business Information Technology in Haaga-Helia University of Applied Sciences.
-Before that I studied programming in Hive Helsinki.
+📚 I've studied programming in Hive Helsinki and one year of Business Information Technology in Haaga-Helia University of Applied Sciences.
+
+🌱 My ongoing projects: MongoDB certificate course, building AI chatbot, Full Stack Open course.
 
 📫 How to reach me: eena.salorinta@gmail.com or through LinkedIn https://fi.linkedin.com/in/eena-salorinta
 <!--
