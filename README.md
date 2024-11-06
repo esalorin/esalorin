@@ -4,7 +4,7 @@ I'm Eena, a full-stack developer with a startup experince.
 
 I’m a problem solver with a creative mindset, and as a visually oriented person, I’m particularly interested in front-end development. However, I find that full-stack development, with a good balance of both frontend and backend, suits me well.
 
-🌱 My ongoing projects: Building a Tinder clone,  MongoDB certificate course.
+🌱 My ongoing projects: Building a Tinder clone using Nextjs,  MongoDB certificate course.
 
 📫 How to reach me: eena.salorinta@gmail.com or through LinkedIn https://fi.linkedin.com/in/eena-salorinta
 <!--
