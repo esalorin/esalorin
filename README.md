@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-I'm Eena!
+I'm Eena, a full-stack developer with a startup experince.
 
-Currently I'm working as a Junior Software Engineer at Funzi where I'm part of the internal tech team 🤓
+I’m a problem solver with a creative mindset, and as a visually oriented person, I’m particularly interested in front-end development. However, I find that full-stack development, with a good balance of both frontend and backend, suits me well.
 
-📚 I've studied programming in Hive Helsinki and one year of Business Information Technology in Haaga-Helia University of Applied Sciences.
-
-🌱 My ongoing projects: MongoDB certificate course, building AI chatbot, Full Stack Open course.
+🌱 My ongoing projects: Building a Tinder clone,  MongoDB certificate course.
 
 📫 How to reach me: eena.salorinta@gmail.com or through LinkedIn https://fi.linkedin.com/in/eena-salorinta
 <!--
