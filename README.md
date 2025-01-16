@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Eena, a full-stack developer with a startup experince.
+I'm Eena, a full-stack developer with a startup experince. My passion lies in web development and building detailed UI.
 
 I’m a problem solver with a creative mindset, and as a visually oriented person, I’m particularly interested in front-end development. However, I find that full-stack development, with a good balance of both frontend and backend, suits me well.
 
